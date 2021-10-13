@@ -1,2 +1,2 @@
 # -Weather-App
-A Simple Weather App in Python
+The goal of the project is to create a python application that scans the content of Weather.com delivering the weather temperature without browsing to the website.For the python mini project,  i have made a simple weather app which uses the python ‘requests’ module to get weather information from google via http requests and then parse the data using‘beautiful soup’ module which is then displayed on in the UI made using ‘tkinter’.
